@@ -5,17 +5,6 @@
 <h4 align="center">This project is a music player built using React.</h4>
 
 
-## Features
-
-- **Playlists**
-  - View and manage playlists with various tracks and durations.
-- **Genres**
-  - Explore different music genres.
-- **Recent Plays**
-  - Quick access to recently played tracks.
-- **Premium**
-  - Upgrade for uninterrupted music enjoyment.
-
 ## Usage
 
 To clone and run this application, you need Git and Node.js (which comes with npm) installed on your computer. From your command line:

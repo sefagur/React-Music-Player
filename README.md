@@ -1,9 +1,5 @@
 <h1 align="center">
-  <br>
-  <img src="https://github.com/sefagur/React-Music-Player/assets/logo.png" alt="Logo" width="100">
-  <br>
   React Music Player
-  <br>
 </h1>
 
 <h4 align="center">This project is a music player built using React.</h4>

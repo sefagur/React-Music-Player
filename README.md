@@ -4,8 +4,8 @@
 
 <h4 align="center">This project is a music player built using React.</h4>
 
-<div style="text-align: center;">
-  <img src="https://github.com/sefagur/React-Music-Player/assets/55931195/4c9320da-fa1f-4ca6-b0b2-c757faef063c" style="border-radius: 10px; width: 200px; height: auto;" alt="Usage Image">
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://github.com/sefagur/React-Music-Player/assets/55931195/4c9320da-fa1f-4ca6-b0b2-c757faef063c" style="border-radius: 10px; width: 100%; max-width: 600px; height: auto;" alt="Usage Image">
 </div>
 
 ## Usage
